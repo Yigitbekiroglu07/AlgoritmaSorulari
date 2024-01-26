@@ -1,0 +1,14 @@
+C:\Users\YIGIT\source\repos\Soru1\Soru1\bin\Debug\net6.0\Soru1.exe
+C:\Users\YIGIT\source\repos\Soru1\Soru1\bin\Debug\net6.0\Soru1.deps.json
+C:\Users\YIGIT\source\repos\Soru1\Soru1\bin\Debug\net6.0\Soru1.runtimeconfig.json
+C:\Users\YIGIT\source\repos\Soru1\Soru1\bin\Debug\net6.0\Soru1.dll
+C:\Users\YIGIT\source\repos\Soru1\Soru1\bin\Debug\net6.0\Soru1.pdb
+C:\Users\YIGIT\source\repos\Soru1\Soru1\obj\Debug\net6.0\Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YIGIT\source\repos\Soru1\Soru1\obj\Debug\net6.0\Soru1.AssemblyInfoInputs.cache
+C:\Users\YIGIT\source\repos\Soru1\Soru1\obj\Debug\net6.0\Soru1.AssemblyInfo.cs
+C:\Users\YIGIT\source\repos\Soru1\Soru1\obj\Debug\net6.0\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\YIGIT\source\repos\Soru1\Soru1\obj\Debug\net6.0\Soru1.dll
+C:\Users\YIGIT\source\repos\Soru1\Soru1\obj\Debug\net6.0\refint\Soru1.dll
+C:\Users\YIGIT\source\repos\Soru1\Soru1\obj\Debug\net6.0\Soru1.pdb
+C:\Users\YIGIT\source\repos\Soru1\Soru1\obj\Debug\net6.0\Soru1.genruntimeconfig.cache
+C:\Users\YIGIT\source\repos\Soru1\Soru1\obj\Debug\net6.0\ref\Soru1.dll
