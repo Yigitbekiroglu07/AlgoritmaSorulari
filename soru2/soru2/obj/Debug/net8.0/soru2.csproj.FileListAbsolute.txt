@@ -1,0 +1,14 @@
+C:\Users\YIGIT\source\repos\soru2\soru2\bin\Debug\net8.0\soru2.exe
+C:\Users\YIGIT\source\repos\soru2\soru2\bin\Debug\net8.0\soru2.deps.json
+C:\Users\YIGIT\source\repos\soru2\soru2\bin\Debug\net8.0\soru2.runtimeconfig.json
+C:\Users\YIGIT\source\repos\soru2\soru2\bin\Debug\net8.0\soru2.dll
+C:\Users\YIGIT\source\repos\soru2\soru2\bin\Debug\net8.0\soru2.pdb
+C:\Users\YIGIT\source\repos\soru2\soru2\obj\Debug\net8.0\soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YIGIT\source\repos\soru2\soru2\obj\Debug\net8.0\soru2.AssemblyInfoInputs.cache
+C:\Users\YIGIT\source\repos\soru2\soru2\obj\Debug\net8.0\soru2.AssemblyInfo.cs
+C:\Users\YIGIT\source\repos\soru2\soru2\obj\Debug\net8.0\soru2.csproj.CoreCompileInputs.cache
+C:\Users\YIGIT\source\repos\soru2\soru2\obj\Debug\net8.0\soru2.dll
+C:\Users\YIGIT\source\repos\soru2\soru2\obj\Debug\net8.0\refint\soru2.dll
+C:\Users\YIGIT\source\repos\soru2\soru2\obj\Debug\net8.0\soru2.pdb
+C:\Users\YIGIT\source\repos\soru2\soru2\obj\Debug\net8.0\soru2.genruntimeconfig.cache
+C:\Users\YIGIT\source\repos\soru2\soru2\obj\Debug\net8.0\ref\soru2.dll
